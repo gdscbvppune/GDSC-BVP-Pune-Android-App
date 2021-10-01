@@ -3,4 +3,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Intro_signin">ALREADY HAVE AN ACCOUNT? LOG IN</string>
+    <string name="Intro_para">We are a cluster of students who are ardent about helping their peers learn, connect and grow. We had an amazing journey coming to where we are today and things came to existence because of our ability to work together towards a common vision as a team. DSC BVP Pune, provides students a vivacious and jovial environment to connect,collaborate and unfurl their skills.</string>
+    <string name="Intro_title">We are what we do</string>
 </resources>

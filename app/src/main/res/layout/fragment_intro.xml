@@ -45,7 +45,7 @@
         android:layout_centerHorizontal="true"
         android:fontFamily="@font/lato_black"
         android:lineHeight="41sp"
-        android:text="We are what we do"
+        android:text="@string/Intro_title"
         android:textColor="#D23F414E"
         android:textSize="30sp" />
 
@@ -58,7 +58,7 @@
         android:fontFamily="@font/lato"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
-        android:text="We are a cluster of students who are ardent about helping their peers learn, connect and grow. We had an amazing journey coming to where we are today and things came to existence because of our ability to work together towards a common vision as a team. DSC BVP Pune, provides students a vivacious and jovial environment to connect,collaborate and unfurl their skills."
+        android:text="@string/Intro_para"
         android:textAlignment="center"
         android:textColor="#A1A4B2"
         android:textSize="16sp" />
@@ -84,7 +84,7 @@
         android:layout_below="@id/btn_signup"
         android:layout_marginTop="10dp"
         android:layout_centerHorizontal="true"
-        android:text="ALREADY HAVE AN ACCOUNT? LOG IN" />
+        android:text="@string/Intro_signin" />
 
 
 
