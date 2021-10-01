@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".Intro">
+
+    <FrameLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_group_6805" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="70dp"
+            android:src="@drawable/logo" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/intro" />
+
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l1"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/lato_black"
+        android:lineHeight="41sp"
+        android:text="We are what we do"
+        android:textColor="#D23F414E"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/para"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/lato"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="We are a cluster of students who are ardent about helping their peers learn, connect and grow. We had an amazing journey coming to where we are today and things came to existence because of our ability to work together towards a common vision as a team. DSC BVP Pune, provides students a vivacious and jovial environment to connect,collaborate and unfurl their skills."
+        android:textAlignment="center"
+        android:textColor="#A1A4B2"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/para"
+        android:background="@drawable/intro_btn"
+        android:text="SIGN UP"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_signup"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="ALREADY HAVE AN ACCOUNT? LOG IN" />
+
+
+
+</RelativeLayout>
