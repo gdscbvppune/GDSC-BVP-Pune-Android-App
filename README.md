@@ -51,6 +51,15 @@ See here - [resources.md](/docs/resources.md)
       <strong>Hitesh Sukhwani</strong><br>
       <a href="mailto:hiteshsukhwani29@gmail.com">E-Mail</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Saurav-singh06">
+        <img width="150" src="https://avatars.githubusercontent.com/u/68386469?v=4"><br>
+        @sauravsingh06
+      </a> <br>
+      <strong>Saurav Singh</strong><br>
+      <a href="sauravsingh85079@gmail.com">E-Mail</a>
+    </td>
+    
   </tr>
 </tbody>
 </table>
