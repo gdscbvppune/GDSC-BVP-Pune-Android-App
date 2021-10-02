@@ -15,7 +15,7 @@
 
 ## Overview
 
-This app will be the official app for GDSC BVP Pune club. One can check upcoming events in the club and can RSVP directly from the app. There will be a section for ongoing projects to participate in if you are interested, you can join request to join their chat channel.
+This app will be the official app for GDSC BVP Pune club. One can check upcoming events in the club and can RSVP directly from the app. There will be a section for ongoing projects to participate in if you are interested, you can send request to join their chat channel.
 
 
 ## Getting Started
